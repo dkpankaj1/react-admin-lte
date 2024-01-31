@@ -1,0 +1,123 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "fas fa-tachometer-alt",
+        "path": "#"
+    },
+    {
+        "title": "Product",
+        "icon": "fa fa-shopping-bag",
+        "path": "#",
+        "sub": [
+            {
+                "title": "Add Product",
+                "path": "#"
+            },
+            {
+                "title": "Product List",
+                "path": "#"
+            }
+        ]
+    },
+    {
+        "title": "Report",
+        "icon": "fas fa-chart-line",
+        "path": "#"
+    },
+    {
+        "title": "Logout",
+        "icon": "fas fa-sign-out-alt",
+        "path": "#"
+    },
+    {
+        "title": "Dashboard",
+        "icon": "fas fa-tachometer-alt",
+        "path": "#"
+    },
+    {
+        "title": "Product",
+        "icon": "fa fa-shopping-bag",
+        "path": "#",
+        "sub": [
+            {
+                "title": "Add Product",
+                "path": "#"
+            },
+            {
+                "title": "Product List",
+                "path": "#"
+            }
+        ]
+    },
+    {
+        "title": "Report",
+        "icon": "fas fa-chart-line",
+        "path": "#"
+    },
+    {
+        "title": "Logout",
+        "icon": "fas fa-sign-out-alt",
+        "path": "#"
+    },
+    {
+        "title": "Dashboard",
+        "icon": "fas fa-tachometer-alt",
+        "path": "#"
+    },
+    {
+        "title": "Product",
+        "icon": "fa fa-shopping-bag",
+        "path": "#",
+        "sub": [
+            {
+                "title": "Add Product",
+                "path": "#"
+            },
+            {
+                "title": "Product List",
+                "path": "#"
+            }
+        ]
+    },
+    {
+        "title": "Report",
+        "icon": "fas fa-chart-line",
+        "path": "#"
+    },
+    {
+        "title": "Logout",
+        "icon": "fas fa-sign-out-alt",
+        "path": "#"
+    },
+    {
+        "title": "Dashboard",
+        "icon": "fas fa-tachometer-alt",
+        "path": "#"
+    },
+    {
+        "title": "Product",
+        "icon": "fa fa-shopping-bag",
+        "path": "#",
+        "sub": [
+            {
+                "title": "Add Product",
+                "path": "#"
+            },
+            {
+                "title": "Product List",
+                "path": "#"
+            }
+        ]
+    },
+    {
+        "title": "Report",
+        "icon": "fas fa-chart-line",
+        "path": "#"
+    },
+    {
+        "title": "Logout",
+        "icon": "fas fa-sign-out-alt",
+        "path": "#"
+    }
+]
+
